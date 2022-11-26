@@ -1,0 +1,4 @@
+This is information about the company which will be included in the files and
+That makes things easier for the users of the files.
+
+Can I paste a file in this environment. Where did it go!
